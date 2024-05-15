@@ -3,7 +3,7 @@
 
 I am a skilled full-stack developer with experience in front-end and back-end technologies. I specialize in developing end-to-end applications that provide an optimal user experience
 
-With a passion for full-stack development, I am a proficient developer capable of designing and developing complex applications with expertise in .NET & Angular.
+With a passion for full-stack development, I am a proficient developer capable of designing and developing complex applications with expertise in <b> Angular & .NET (MS-SQL) </b>.
 
 I am a highly analytical full-stack developer committed to delivering robust and reliable applications across various industries. I develop efficient and secure systems that provide an optimal user experience.
 
