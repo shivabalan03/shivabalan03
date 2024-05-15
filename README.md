@@ -1,7 +1,15 @@
 ### Hi there 👋
 
 
-**shivabalan03/shivabalan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a skilled full-stack developer with experience in front-end and back-end technologies. I specialize in developing end-to-end applications that provide an optimal user experience
+
+With a passion for full-stack development, I am a proficient developer capable of designing and developing complex applications with expertise in .NET & Angular.
+
+I am a highly analytical full-stack developer committed to delivering robust and reliable applications across various industries. I develop efficient and secure systems that provide an optimal user experience.
+
+As an innovative full-stack developer, I deeply understand best practices and have experience in Angular and Ruby on Rails. I deliver high-quality products that meet client needs.
+
+I am a collaborative and creative full-stack developer, experienced in .NET & MS-SQL. I develop scalable and efficient applications that meet or exceed client expectations.
 
 ---
 
